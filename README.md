@@ -120,13 +120,13 @@ This project involved performing Exploratory Data Analysis on the cleaned e-comm
 
 ### Key Observations
 
-•Certain product categories consistently outperformed others in revenue
+- Certain product categories consistently outperformed others in revenue
 
-•IQR analysis revealed significant outliers in total order values
+- IQR analysis revealed significant outliers in total order values
 
-•Pivot table breakdowns showed clear preference patterns in payment methods and referral sources
+- Pivot table breakdowns showed clear preference patterns in payment methods and referral sources
 
-•Coupon code usage varied meaningfully across product segments
+- Coupon code usage varied meaningfully across product segments
 
 ### Challenges Faced
 - Determining the right outlier threshold (IQR-based rather than an arbitrary cutoff) to avoid excluding legitimate high-value orders
