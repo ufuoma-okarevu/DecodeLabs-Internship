@@ -120,13 +120,13 @@ This project involved performing Exploratory Data Analysis on the cleaned e-comm
 
 ### Key Observations
 
-| Metric | Value |
-|---|---|
-| Coupon Usage Rate | ~74% of orders |
-| Revenue per Customer | ~$1,064 |
-| Orders per Customer | ~1.01 |
+•Certain product categories consistently outperformed others in revenue
 
-The near-1.0 orders-per-customer figure indicates a largely one-time-purchase customer base rather than repeat buyers.
+•IQR analysis revealed significant outliers in total order values
+
+•Pivot table breakdowns showed clear preference patterns in payment methods and referral sources
+
+•Coupon code usage varied meaningfully across product segments
 
 ### Challenges Faced
 - Determining the right outlier threshold (IQR-based rather than an arbitrary cutoff) to avoid excluding legitimate high-value orders
